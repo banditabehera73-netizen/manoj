@@ -1,0 +1,30 @@
+{
+  "source_rows": 31,
+  "rows_after_deduplication": 31,
+  "rows_after_cleaning": 30,
+  "missing_values_before": 0,
+  "missing_values_after": 0,
+  "duplicates_removed": 1,
+  "columns": [
+    "order_id",
+    "order_date",
+    "customer_id",
+    "customer_age",
+    "segment",
+    "city",
+    "state",
+    "region",
+    "product_category",
+    "product_name",
+    "sales",
+    "quantity",
+    "discount",
+    "profit",
+    "order_priority",
+    "profit_margin"
+  ],
+  "date_range": {
+    "start": "2025-01-02",
+    "end": "2025-01-30"
+  }
+}

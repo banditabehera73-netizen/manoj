@@ -1,0 +1,33 @@
+order_id,order_date,customer_id,customer_age,segment,city,state,region,product_category,product_name,sales,quantity,discount,profit,order_priority
+1001,2025-01-02,C001,35,Consumer,New York,NY,North,Electronics,Laptop,850.00,1,0.1,120.00,High
+1002,2025-01-03,C002,28,Corporate,Boston,MA,North,Office Supplies,Printer Ink,42.50,3,0.0,6.00,Medium
+1003,2025-01-04,C003,42,Consumer,Chicago,IL,Central,Furniture,Office Chair,180.00,2,0.08,34.00,Low
+1004,2025-01-05,C004,51,Home Office,Atlanta,GA,South,Office Supplies,Notebook Pack,19.00,10,0.0,2.80,Low
+1005,2025-01-06,C005,26,Consumer,Denver,CO,West,Electronics,Monitor,275.00,2,0.12,38.00,High
+1006,2025-01-07,C006,45,Corporate,San Francisco,CA,West,Accessories,USB Hub,35.00,5,0.0,4.10,Medium
+1007,2025-01-08,C007,34,Consumer,Miami,FL,South,Electronics,Keyboard,60.00,6,0.05,10.00,Low
+1008,2025-01-09,C008,63,Home Office,Dallas,TX,South,Electronics,Laptop,1495.00,1,0.15,260.00,High
+1009,2025-01-10,C009,29,Consumer,Seattle,WA,West,Furniture,Desk,420.00,1,0.0,58.00,Low
+1010,2025-01-11,C010,40,Corporate,Austin,TX,South,Office Supplies,Desk Organizer,16.00,4,0.0,1.50,Medium
+1011,2025-01-12,C011,37,Consumer,Miami,FL,South,Accessories,Mouse,25.00,7,0.1,4.35,Low
+1012,2025-01-13,C012,,Corporate,San Diego,CA,West,Office Supplies,Toner,99.00,4,0.0,11.00,Medium
+1013,2025-01-14,C013,50,Consumer,Nashville,TN,South,Furniture,Storage Cabinet,620.00,1,0.1,72.00,High
+1014,2025-01-15,C014,31,Home Office,Portland,OR,West,Electronics,Tablet,299.00,2,0.18,36.00,Medium
+1015,2025-01-16,C015,56,Corporate,Atlanta,GA,South,Office Supplies,Printer,402.00,1,0.05,51.00,High
+1016,2025-01-17,C016,44,Home Office,Chicago,IL,Central,Office Supplies,Notebook Pack,29.00,12,0.0,4.50,Low
+1017,2025-01-18,C017,55,Consumer,New Orleans,LA,South,Accessories,Webcam,88.00,4,0.12,12.80,Medium
+1001,2025-01-02,C001,35,Consumer,New York,NY,North,Electronics,Laptop,850.00,1,0.1,120.00,High
+1018,2025-01-19,C018,41,Corporate,Baltimore,MD,East,Office Supplies,Printer Ink,35.00,9,0.1,4.90,Low
+1019,2025-01-20,C019,33,Consumer,Charlotte,NC,South,Furniture,Standing Desk,610.00,1,0.15,95.00,High
+1020,2025-01-21,C020,39,Home Office,Indianapolis,IN,Central,Electronics,Monitor,253.00,2,0.0,29.00,Low
+1021,2025-01-22,C021,29,Corporate,Denver,CO,West,Office Supplies,Folder Set,15.00,20,0.0,2.10,Low
+1022,2025-01-23,C022,48,Consumer,Las Vegas,NV,West,Accessories,Headset,64.00,3,0.0,9.00,Medium
+1023,2025-01-24,C023,52,Consumer,Columbus,OH,Central,Electronics,Tablet,925.00,1,0.2,105.00,High
+1024,2025-01-25,C024,44,,Phoenix,AZ,West,Furniture,Office Chair,180,2,0.05,34,Low
+1025,2025-01-26,C025,46,Corporate,Charlotte,NC,South,Electronics,Printer,900.00,2,0.08,42.00,High
+1026,2025-01-27,C026,30,Consumer,Austin,TX,South,Furniture,Desk,3200.00,1,0.25,455.00,High
+1027,2025-01-28,C027,65,Consumer,Orlando,FL,South,Accessories,USB Cable,12.00,0,0.0,-3.50,Low
+1028,2025-01-28,C028,23,Home Office,Indianapolis,IN,Central,Office Supplies,Paper Ream,8.00,10,0.1,1.10,Low
+1029,2025-01-29,C029,36,Consumer,Nashville,TN,South,Electronics,Monitor,320.00,1,,40.00,Medium
+1030,2025-01-30,C030,54,Corporate,Raleigh,NC,South,Office Supplies,Printer Ink,80.00,4,0.2,14.00,Medium
+

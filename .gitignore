@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# OS and editor files
+.DS_Store
+.vscode/
+
+# Output artifacts that should be regenerated
+reports/figures/*.png

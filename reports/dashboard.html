@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sales Data Dashboard</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background: #f6f7fb; color: #20263a; }
+    h1 { color: #174169; }
+    .summary { display: flex; gap: 20px; margin-bottom: 30px; }
+    .card { background: white; padding: 20px; border-radius: 12px; width: 200px; box-shadow: 0 3px 10px rgba(0,0,0,.08); }
+    .card h3 { margin-top: 0; color: #2a6f97; }
+    .chart-grid { display: grid; grid-template-columns: repeat(2, minmax(300px, 1fr)); gap: 20px; }
+    img { width: 100%; border-radius: 8px; background: white; padding: 5px; border: 1px solid #dce2ea; }
+  </style>
+</head>
+<body>
+  <h1>Sales Data Cleaning & Visualization Dashboard</h1>
+
+  <section class="summary">
+    <div class="card">
+      <h3>Total Revenue</h3>
+      <p>$8,834.00</p>
+    </div>
+    <div class="card">
+      <h3>Total Profit</h3>
+      <p>$1,063.59</p>
+    </div>
+    <div class="card">
+      <h3>Average Order Value</h3>
+      <p>$294.47</p>
+    </div>
+    <div class="card">
+      <h3>Total Orders</h3>
+      <p>30</p>
+    </div>
+  </section>
+
+  <section class="summary">
+    <div class="card">
+      <h3>Top Region</h3>
+      <p>South</p>
+    </div>
+    <div class="card">
+      <h3>Top Product Category</h3>
+      <p>Electronics</p>
+    </div>
+  </section>
+
+  <section class="chart-grid">
+    <img src="figures/sales_by_region.png" alt="Sales by Region">
+    <img src="figures/profit_by_category.png" alt="Profit by Category">
+    <img src="figures/customer_age_distribution.png" alt="Customer Age Distribution">
+    <img src="figures/sales_vs_profit.png" alt="Sales vs Profit">
+  </section>
+</body>
+</html>
